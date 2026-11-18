@@ -4,7 +4,7 @@ With the general project instructions ready, you realize you need more specific 
 
 You want to make sure all your assignments follow the same pattern and structure so students have a consistent experience, but these rules should only apply when working on assignment files.
 
-### 📖 Theory: Custom Instruction Files
+### 📖  Briefly explain this project to me
 
 Instruction files (`*.instructions.md`) provide Copilot targeted guidance for specific files or directories in your project.
 
